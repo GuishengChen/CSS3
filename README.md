@@ -5,7 +5,7 @@
 | -webkit | chrome/safari |
 | -moz    | firefox       |
 | -ms     | ie            |
-| -0      | opera         |
+| -      | opera         |
 
 check individual property compatible: https://caniuse.com/<br /> 
 Note that you dont have to do this if you are using a build system like gulp and grunt<br />

@@ -37,5 +37,5 @@ reference: https://www.w3cplus.com/content/css3-font-face
 
 *background-size* auto: do not change the origin photo, 100px 50px (height and width), cover: fill the background, contain: contain the photo <br/><br/>
 
-*background-position* center center; 100px 100px
+**background-position** center center; 100px 100px
 

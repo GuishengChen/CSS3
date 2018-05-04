@@ -37,5 +37,18 @@ reference: https://www.w3cplus.com/content/css3-font-face
 
 **background-size** auto: do not change the origin photo, 100px 50px (height and width), cover: fill the background, contain: contain the photo <br/><br/>
 
-**background-position** center center; 100px 100px
+**background-position** center center; 100px 100px <br/><br/>
+
+## CSS3 Animation
+
+**transform** to rotate the object according to X, Y, Z(z is from screen to you)<br/>
+usage: transform: rotateX(10deg)/rotateY/rotateZ/rotate(angle)---Z/rotate3d(x, y, z, angle)<br/>
+scale(x, y); scaleX(number); scaleY(number); the function takes in a number which is the times of size you wanted to be<br/>
+skew() to skew<br/>
+translate() kinda like margin to position object<br/>
+translate-origin(50px/50%, 50px/50%) to change the center position<br/><br/>
+ **transition** 4 parameters: transition-property, duration, speed mode, delay<br/><br/>
+
+
+
 
